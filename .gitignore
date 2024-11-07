@@ -1,3 +1,6 @@
 /.npmrc
 /build
 /node_modules
+.env
+data
+docker-compose.yml
