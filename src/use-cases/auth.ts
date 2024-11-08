@@ -27,7 +27,7 @@ export class AuthUseCase {
       throw new InvalidCredentialsError()
     }
     return {
-      user
+      user,
     }
   }
 }
